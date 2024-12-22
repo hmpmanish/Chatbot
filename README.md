@@ -1,4 +1,4 @@
-# SimpleBot Chatbot
+# SimpleBot Chatbot  
 
 This project demonstrates how to create and train a chatbot using the [ChatterBot](https://chatterbot.readthedocs.io/) library in Python. The chatbot is named **SimpleBot** and is trained on the English corpus provided by ChatterBot.
 
